@@ -1,0 +1,2 @@
+# probabilistic_graphical_model
+Probabilistic Graphical Model Materials
